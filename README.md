@@ -15,5 +15,5 @@ After WWII, a number of people independently started to work on intelligent mach
 been the first. He gave a lecture on it in ***1947***. He also may have been the first to decide that AI was best researched by programming computers rather than by building machines.
 
 ### Time Line 
-
+![AI Time lIne](images/AI Timeline.jpg)
                                                                                                            
