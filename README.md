@@ -16,4 +16,10 @@ been the first. He gave a lecture on it in ***1947***. He also may have been the
 
 ### Time Line 
 ![AI Time lIne](/images/AI Timeline.jpg)
+
+### Types of AI
+There are three types
+- Artificial Narrow Intelligence(ANI) / Weak AI
+- Artficial General Intelligence(AGI) / Strong AI
+- Artifical Super Intelligence(ASI)
                                                                                                            
