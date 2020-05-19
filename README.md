@@ -22,4 +22,27 @@ There are three types
 - Artificial Narrow Intelligence(ANI) / Weak AI
 - Artficial General Intelligence(AGI) / Strong AI
 - Artifical Super Intelligence(ASI)
+
+### Applications of AI in different domains
+
+- Agriculture
+- Arts
+- Autonomus Vehicles
+- Cyber Security
+- E commerce
+- Education
+- Entertainment
+- Finance
+- Government
+- Healthcare
+- Law
+- Manufacturing, Production and maintanance
+- Marketing
+- Online games
+- Social issues
+- Space
+- Sports
+- Stock Market
+- Transporation and Logistics
+
                                                                                                            
