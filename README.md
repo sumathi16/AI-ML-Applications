@@ -45,6 +45,20 @@ There are three types
 - Stock Market
 - Transporation and Logistics
 
+### Data collection
+- Downlaod the similar data avialable onilne
+  - kaggle,UCI, data.gov
+- Generating Synthetic data
+- WebScraping
+
+### Types of data
+- structured(EX: csv,tsv,db...)
+- Unstructured
+  - Images
+  - Video
+  - Text
+  - Audio
+
 ### Types of Problems
 - Classification
   - Binary
@@ -74,11 +88,5 @@ There are three types
   - Style transfer
   - Time series Data Analysis
   
-### Types of data
-- structured(EX: csv,tsv...)
-- Unstructured
-  - Images
-  - Video
-  - Text
-  - Audio
+
                                                                                                            
