@@ -45,4 +45,40 @@ There are three types
 - Stock Market
 - Transporation and Logistics
 
+### Types of Problems
+- Classification
+  - Binary
+  - Multiclass
+- Regression
+- Anamoly Detection
+- Clutsering
+- Recommendation Systems
+  - item based
+  - product based
+- Reinforcement Learrning
+- Deep Learning
+  - classification
+    - Binary
+    - Multiclass
+  - Regressions
+  - Transfer Learning
+  - object detection
+  - machine transaltion
+  - text generation
+  - text classication
+  - Auto completion
+  - Q&A sysytem
+  - Spell check
+  - Image description
+  - Video description
+  - Style transfer
+  - Time series Data Analysis
+  
+### Types of data
+- structured(EX: csv,tsv...)
+- Unstructured
+  - Images
+  - Video
+  - Text
+  - Audio
                                                                                                            
